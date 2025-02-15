@@ -16,7 +16,7 @@
       "already_configured": "Urządzenie jest już skonfigurowane",
       "no_printers": "Nie znaleziono drukarek nie skonfigurowanych na koncie",
       "cloudflare": "Cloudflare zablokował próbę połączenia.",
-      "curl_unavailable": "Biblioteka "curl_cffi" jest niedostępna."
+      "curl_unavailable": "Biblioteka \"curl_cffi\" jest niedostępna."
     },
     "error": {
       "cannot_connect": "Nie można nawiązać połączenia. Sprawdź dane login.",
@@ -80,7 +80,7 @@
   "options": {
     "abort": {
       "cloudflare": "Cloudflare zablokował próbę połączenia.",
-      "curl_unavailable": "Biblioteka "curl_cffi" nie jest dostępna."
+      "curl_unavailable": "Biblioteka \"curl_cffi\" nie jest dostępna."
     },
     "error": {
       "cannot_connect": "Nie można nawiązać połączenia. Sprawdź dane logowania.",
