@@ -292,7 +292,7 @@
           "cleaning_nozzle_tip": "Reinigung der Düsenspitze",
           "checking_extruder_temperature": "Kontrolle der Extrudertemperatur",
           "paused_user": "Der Druckvorgang wurde vom Benutzer angehalten",
-          "paused_front_cover_falling": "Pause, weil die Abdeckung des Druckkopf abgefallen ist",
+          "paused_front_cover_falling": "Pause, weil die Abdeckung des Druckkopfes abgefallen ist",
           "calibrating_extrusion_flow": "Kalibrierung des Extrusionsflusses",
           "paused_nozzle_temperature_malfunction": "Pausiert aufgrund einer Störung der Düsentemperatur",
           "paused_heat_bed_temperature_malfunction": "Pausiert aufgrund einer Störung der Wärmebetttemperatur",
@@ -604,10 +604,10 @@
         "name": "Aufforderungston zulassen"
       },
       "ftp": {
-        "name": "Laden Sie Modelldaten aus dem Drucker laden"
+        "name": "Modelldaten aus dem Drucker laden"
       },
       "timelapse": {
-        "name": "Laden Sie den neuesten Zeitplan aus dem Drucker"
+        "name": "Neuesten Zeitraffer aus dem Drucker laden"
       }
     }
   },
